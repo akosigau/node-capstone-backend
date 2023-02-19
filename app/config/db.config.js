@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "https://sthenos-backend.onrender.com",
+    HOST: "localhost",
     USER: "root",
     PASSWORD: "",
     DB: "sthenosdb",
