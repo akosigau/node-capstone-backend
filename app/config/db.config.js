@@ -1,7 +1,7 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "root",
-    PASSWORD: "",
+    HOST: "dpg-cfp044h4rebfdaqj4fi0-a",
+    USER: "sthenosdb_user",
+    PASSWORD: "6La2ZdyRmaqiXKsIeCamcdqIX85LG7lT",
     DB: "sthenosdb",
     dialect: "mysql",
     pool: {
